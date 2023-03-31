@@ -1,4 +1,4 @@
-import './App.css';
+import './styles/App.css';
 import SorryContext from './contexts/SorryContext';
 import AppRouter from './routers/AppRouter';
 
